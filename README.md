@@ -5,3 +5,5 @@ My goal is to develop testing knowlage and technical skills.
 # Tools
 * TestLink
 * Jira
+# Courses
+* CodersLab - Software Tester
